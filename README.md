@@ -2,6 +2,8 @@
 
 All you need to know is here fishy fishy.... [Installation Link](https://github.com/SNiKerDoDle/googlehehexd/raw/master/dist/googlehehexd.exe)
 
+USE AT YOUR OWN RISK. I AM NOT RESPONSIBLE IF YOU WIND UP BANNED. YOU KNOW THE RISK AND BY DOWNLOADING THIS ACCEPT THE RISK.
+
 ## Description
 
 To use position your camera like this:
