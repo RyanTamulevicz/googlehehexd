@@ -3,6 +3,8 @@ import pyautogui
 import time 
 import keyboard 
 from pynput.keyboard import Controller
+import os
+import sys
 
 keyboard = Controller()
 key = "e"
