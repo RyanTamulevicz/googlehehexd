@@ -1,6 +1,6 @@
 # Googlehehexd
 
-All you need to know is here fishy fishy.... [Installation Link](https://github.com/RyanTamulevicz/googlehehexd/raw/master/dist/googlehehexd.exe)
+All you need to know is here fishy fishy.... [Installation Link](https://github.com/SNiKerDoDle/googlehehexd/raw/master/dist/googlehehexd.exe)
 
 ## Description
 
@@ -35,7 +35,7 @@ python googlehehexd.py
 
 ### Installing executable
 
-* [Installation Link](https://github.com/RyanTamulevicz/googlehehexd/raw/master/dist/googlehehexd.exe)
+* [Installation Link](https://github.com/SNiKerDoDle/googlehehexd/raw/master/dist/googlehehexd.exe)
 
 ### Executing program
 
