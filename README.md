@@ -1,6 +1,6 @@
 # Googlehehexd
 
-All you need to know is here fishy fishy....
+All you need to know is here fishy fishy.... [Installation Link](https://github.com/RyanTamulevicz/googlehehexd/raw/master/dist/googlehehexd.exe)
 
 ## Description
 
@@ -20,21 +20,26 @@ The exclamation mark will look like this:
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* If you're a nerd and want to run with python, all of the dependencies are in requirements.txt file.
+* This was made with Python 3.9.4, but can probably be run by almost any version of Python 3
+* Only tested on Windows 10
 
-### Installing
+### Installing and running with Python
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+```
+python -m venv venv
+.\venv\Scripts\activate
+pip install requirements.txt
+python googlehehexd.py
+```
+
+### Installing executable
+
+* [Installation Link](https://github.com/RyanTamulevicz/googlehehexd/raw/master/dist/googlehehexd.exe)
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Just open the exe file and run it... xD
 
 ## Help
 
